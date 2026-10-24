@@ -1,0 +1,23 @@
+# Secrets - never commit these
+.env
+*.env
+!.env.example
+
+# Local data (SQLite database with your study history)
+data/
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
