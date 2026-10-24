@@ -21,6 +21,11 @@ vector search and the Claude API.
 
 ---
 
+<img width="1536" height="1024" alt="AI Study Assistant Dashboard (1)" src="https://github.com/user-attachments/assets/3c30b4f6-9d02-4e8c-8601-adbd99374c50" />
+<img width="1536" height="1024" alt="AI Study Assistant PDF Upload Dashboard" src="https://github.com/user-attachments/assets/11244061-96bc-4db7-96e5-42f30e802ad9" />
+<img width="434" height="287" alt="Screenshot 2026-10-24 201422" src="https://github.com/user-attachments/assets/2fa6fac1-e528-4e46-bf92-38ed83837be5" />
+<img width="431" height="287" alt="Screenshot 2026-10-24 201529" src="https://github.com/user-attachments/assets/26856588-5424-49bb-85fd-dfce35f793b9" />
+
 ## Quick start
 
 You need **Python 3.10 or newer**.
